@@ -1,0 +1,5 @@
+name: MicalLib
+version: @version@
+main: kim.mical.micallib.MicalLib
+api-version: 1.13
+authors: [Mical]
